@@ -1,0 +1,1001 @@
+area,location,bhk,bath,balcony,parking,furnishing,property_type,age,price
+2065,Bannerghatta Road,2,3,0,1,Semi-Furnished,Independent House,3,17280000
+1539,Yelahanka,3,1,0,1,Unfurnished,Villa,8,9410000
+2048,Bannerghatta Road,3,1,2,0,Semi-Furnished,Independent House,10,20300000
+1233,Sarjapur Road,3,2,1,2,Fully-Furnished,Apartment,12,9060000
+2487,Yelahanka,3,3,2,1,Fully-Furnished,Villa,4,28660000
+1618,Yelahanka,2,3,1,1,Unfurnished,Apartment,1,10320000
+2407,Whitefield,1,1,1,2,Unfurnished,Independent House,13,20820000
+1672,Banashankari,2,2,1,0,Unfurnished,Apartment,11,11420000
+1506,Sarjapur Road,5,2,1,1,Semi-Furnished,Villa,4,7540000
+847,Sarjapur Road,2,2,2,1,Semi-Furnished,Villa,6,4240000
+1625,KR Puram,1,1,0,0,Fully-Furnished,Apartment,4,7250000
+1093,JP Nagar,3,3,1,0,Fully-Furnished,Independent House,14,7730000
+950,Uttarahalli,4,3,2,2,Fully-Furnished,Independent House,13,10320000
+2075,Sarjapur Road,3,3,2,2,Fully-Furnished,Apartment,11,14310000
+1750,Bannerghatta Road,3,1,2,1,Semi-Furnished,Apartment,10,16420000
+2347,Rajajinagar,2,3,0,2,Fully-Furnished,Independent House,6,26300000
+1071,Marathahalli,5,5,1,2,Fully-Furnished,Apartment,15,4630000
+1357,Jayanagar,1,2,0,0,Unfurnished,Independent House,9,6190000
+2442,Rajajinagar,4,5,1,0,Unfurnished,Apartment,11,20000000
+1630,Marathahalli,5,3,0,2,Fully-Furnished,Apartment,6,10500000
+906,HSR Layout,3,3,2,0,Fully-Furnished,Apartment,4,5970000
+1338,Rajajinagar,3,3,0,2,Unfurnished,Villa,9,7710000
+1092,Rajajinagar,3,3,0,2,Semi-Furnished,Apartment,9,10260000
+1640,Sarjapur Road,2,2,1,2,Semi-Furnished,Independent House,7,15420000
+888,Yelahanka,4,1,2,1,Unfurnished,Villa,5,6620000
+1341,BTM Layout,2,3,0,2,Semi-Furnished,Apartment,8,10390000
+1787,BTM Layout,2,2,1,1,Unfurnished,Villa,2,18920000
+1209,Jayanagar,3,1,2,0,Fully-Furnished,Independent House,3,8690000
+2440,Yelahanka,4,1,0,0,Semi-Furnished,Villa,10,16090000
+1611,HSR Layout,5,4,1,2,Fully-Furnished,Independent House,13,11920000
+1566,Banashankari,2,3,0,0,Semi-Furnished,Apartment,10,12260000
+1256,Marathahalli,2,1,0,1,Fully-Furnished,Independent House,10,9870000
+1639,Koramangala,1,1,1,2,Fully-Furnished,Independent House,2,18310000
+1876,Marathahalli,1,1,0,1,Semi-Furnished,Independent House,11,10300000
+1303,Rajajinagar,4,1,1,1,Fully-Furnished,Apartment,6,12090000
+1223,Yelahanka,2,3,1,2,Fully-Furnished,Independent House,14,5220000
+1282,Koramangala,5,6,2,2,Semi-Furnished,Apartment,11,6340000
+2207,Koramangala,3,4,2,0,Fully-Furnished,Independent House,6,22600000
+1196,Uttarahalli,1,1,0,2,Unfurnished,Independent House,13,7080000
+1391,Indiranagar,4,3,2,0,Semi-Furnished,Apartment,12,8180000
+2002,BTM Layout,3,3,1,1,Unfurnished,Villa,11,11460000
+1175,Indiranagar,5,4,0,1,Semi-Furnished,Apartment,4,9550000
+1009,JP Nagar,5,4,2,2,Fully-Furnished,Independent House,4,4710000
+2175,JP Nagar,4,3,0,2,Unfurnished,Independent House,2,17720000
+2345,Sarjapur Road,3,2,1,2,Semi-Furnished,Villa,9,24110000
+2118,Electronic City,2,3,2,2,Unfurnished,Villa,11,14120000
+1020,Kengeri,2,1,1,2,Fully-Furnished,Villa,5,9870000
+889,KR Puram,1,1,2,0,Unfurnished,Villa,1,9250000
+1483,Whitefield,1,1,1,0,Semi-Furnished,Apartment,15,5770000
+948,Whitefield,1,1,1,1,Semi-Furnished,Independent House,14,7400000
+978,Uttarahalli,5,1,2,0,Unfurnished,Villa,2,7790000
+1644,Marathahalli,1,2,0,1,Unfurnished,Apartment,9,8040000
+1705,Bannerghatta Road,1,2,1,2,Semi-Furnished,Independent House,4,8440000
+1420,BTM Layout,3,4,1,0,Semi-Furnished,Villa,1,8610000
+2207,Bellandur,5,5,2,0,Semi-Furnished,Independent House,12,15210000
+951,Whitefield,5,2,2,1,Fully-Furnished,Villa,11,10570000
+2059,Electronic City,1,1,1,0,Fully-Furnished,Villa,1,18970000
+1972,Kengeri,1,2,2,2,Semi-Furnished,Villa,11,22400000
+1884,Electronic City,3,1,2,1,Unfurnished,Villa,3,15720000
+1350,KR Puram,5,3,2,2,Unfurnished,Apartment,1,7970000
+2157,Koramangala,5,4,1,1,Fully-Furnished,Independent House,11,16140000
+1351,Malleshwaram,3,4,2,1,Semi-Furnished,Independent House,13,9650000
+866,Sarjapur Road,3,1,2,2,Fully-Furnished,Apartment,2,7310000
+1109,Marathahalli,1,1,0,0,Semi-Furnished,Villa,9,9850000
+936,Koramangala,2,2,1,0,Fully-Furnished,Villa,14,5640000
+1677,Electronic City,3,3,0,2,Fully-Furnished,Apartment,3,11910000
+2429,BTM Layout,2,3,1,0,Semi-Furnished,Independent House,12,15730000
+1832,Electronic City,1,1,2,2,Semi-Furnished,Villa,2,20660000
+1214,Bannerghatta Road,3,1,1,0,Semi-Furnished,Villa,15,6810000
+1402,Indiranagar,5,4,2,1,Unfurnished,Independent House,15,8220000
+988,BTM Layout,3,2,2,0,Fully-Furnished,Apartment,3,4500000
+1830,Sarjapur Road,3,2,2,1,Fully-Furnished,Apartment,12,9750000
+2325,HSR Layout,4,1,2,0,Semi-Furnished,Apartment,10,10590000
+1691,Whitefield,4,2,1,2,Semi-Furnished,Villa,9,15580000
+2413,Uttarahalli,1,1,1,2,Fully-Furnished,Independent House,13,18740000
+1470,Whitefield,2,1,1,1,Semi-Furnished,Independent House,2,15310000
+2241,Jayanagar,4,2,2,1,Semi-Furnished,Apartment,2,20350000
+1885,Sarjapur Road,2,2,2,1,Semi-Furnished,Independent House,5,13530000
+2085,Banashankari,3,2,1,0,Unfurnished,Apartment,1,11780000
+1776,Malleshwaram,1,1,1,0,Semi-Furnished,Apartment,1,9270000
+1365,Sarjapur Road,3,3,0,2,Semi-Furnished,Villa,12,15430000
+1824,Electronic City,5,4,0,0,Fully-Furnished,Apartment,3,7810000
+1177,Indiranagar,5,1,1,2,Fully-Furnished,Apartment,13,8730000
+1794,Hebbal,3,2,1,2,Semi-Furnished,Apartment,2,11820000
+1695,Rajajinagar,2,2,0,0,Fully-Furnished,Villa,12,9560000
+2279,Bannerghatta Road,3,1,1,2,Unfurnished,Apartment,9,13180000
+2075,Rajajinagar,1,2,0,0,Fully-Furnished,Apartment,11,15600000
+1493,KR Puram,3,1,1,0,Fully-Furnished,Villa,6,20150000
+1078,Yelahanka,3,2,1,1,Unfurnished,Independent House,5,9830000
+2308,Bellandur,4,2,1,1,Unfurnished,Independent House,14,20560000
+2417,Banashankari,1,1,1,1,Semi-Furnished,Apartment,10,22210000
+1847,Sarjapur Road,3,3,1,1,Semi-Furnished,Villa,7,18390000
+1482,Koramangala,5,1,0,2,Unfurnished,Villa,14,11870000
+1135,Banashankari,3,4,2,1,Semi-Furnished,Apartment,11,7710000
+1281,Indiranagar,1,1,1,1,Semi-Furnished,Apartment,15,5790000
+1055,Jayanagar,5,6,1,0,Fully-Furnished,Villa,7,7740000
+978,Whitefield,2,1,2,2,Unfurnished,Apartment,10,4590000
+1899,Yelahanka,1,1,1,1,Semi-Furnished,Villa,10,16680000
+1838,HSR Layout,1,1,2,0,Fully-Furnished,Apartment,8,10150000
+2100,Malleshwaram,5,3,2,0,Semi-Furnished,Independent House,8,19860000
+812,HSR Layout,2,1,1,2,Semi-Furnished,Independent House,12,4100000
+1290,Bannerghatta Road,1,1,1,0,Semi-Furnished,Villa,6,12740000
+2113,Indiranagar,1,1,1,2,Unfurnished,Apartment,13,12520000
+1730,Banashankari,1,2,2,0,Fully-Furnished,Independent House,3,13880000
+1070,Rajajinagar,4,4,0,2,Semi-Furnished,Apartment,5,9770000
+959,KR Puram,5,5,2,0,Semi-Furnished,Apartment,10,7500000
+1233,Marathahalli,1,1,2,0,Unfurnished,Independent House,7,10210000
+2209,Malleshwaram,4,4,0,0,Fully-Furnished,Villa,3,28770000
+1226,BTM Layout,1,1,2,2,Semi-Furnished,Villa,13,10010000
+1990,Malleshwaram,5,2,0,2,Fully-Furnished,Villa,10,23080000
+2317,Bellandur,4,3,1,1,Fully-Furnished,Apartment,8,22550000
+2094,Koramangala,1,1,0,0,Semi-Furnished,Independent House,10,15330000
+1204,Yelahanka,2,2,0,1,Semi-Furnished,Apartment,1,7140000
+1887,Marathahalli,5,6,1,2,Fully-Furnished,Independent House,6,15650000
+2402,Sarjapur Road,5,5,2,2,Semi-Furnished,Apartment,8,11810000
+2002,JP Nagar,1,1,0,1,Semi-Furnished,Villa,11,18190000
+2160,Sarjapur Road,2,1,0,1,Semi-Furnished,Independent House,8,10910000
+1828,Malleshwaram,1,1,0,0,Unfurnished,Apartment,7,13300000
+2091,Sarjapur Road,1,2,2,2,Unfurnished,Apartment,15,9750000
+2328,Marathahalli,5,4,2,0,Semi-Furnished,Villa,5,25250000
+1537,Bannerghatta Road,3,3,2,0,Unfurnished,Villa,10,9670000
+2173,Bannerghatta Road,4,3,1,2,Semi-Furnished,Independent House,7,19180000
+2167,BTM Layout,4,4,2,1,Semi-Furnished,Apartment,15,19990000
+1757,Rajajinagar,5,4,1,2,Unfurnished,Independent House,9,15770000
+839,Uttarahalli,4,2,1,0,Fully-Furnished,Apartment,8,4600000
+916,Yelahanka,2,2,1,2,Unfurnished,Villa,7,6330000
+1979,Banashankari,4,5,2,1,Fully-Furnished,Villa,14,21080000
+2004,Malleshwaram,4,4,0,2,Semi-Furnished,Villa,6,21710000
+915,Whitefield,3,3,0,2,Unfurnished,Apartment,9,7270000
+1699,Sarjapur Road,2,3,0,0,Semi-Furnished,Apartment,12,11140000
+1860,KR Puram,4,2,1,0,Unfurnished,Apartment,15,7270000
+2383,Koramangala,4,5,0,1,Semi-Furnished,Apartment,2,13880000
+1175,Bannerghatta Road,4,1,2,1,Semi-Furnished,Apartment,11,11140000
+1250,Uttarahalli,3,2,0,0,Fully-Furnished,Apartment,5,9290000
+1156,Indiranagar,3,3,0,2,Fully-Furnished,Independent House,4,10870000
+2241,Malleshwaram,1,2,0,2,Unfurnished,Villa,7,10320000
+1133,Whitefield,2,1,2,2,Unfurnished,Independent House,8,10290000
+1263,Hebbal,3,3,0,2,Fully-Furnished,Independent House,8,5630000
+1858,KR Puram,3,3,0,0,Semi-Furnished,Apartment,2,11750000
+1004,Whitefield,5,2,2,2,Unfurnished,Independent House,6,6300000
+1241,Whitefield,2,2,2,2,Fully-Furnished,Apartment,1,6870000
+984,HSR Layout,3,2,1,2,Unfurnished,Apartment,9,6000000
+1902,Yelahanka,2,2,0,0,Semi-Furnished,Villa,4,15500000
+1574,Jayanagar,3,3,0,0,Semi-Furnished,Apartment,9,8960000
+918,KR Puram,1,1,1,0,Unfurnished,Villa,7,5800000
+2163,Hebbal,2,1,1,0,Fully-Furnished,Villa,10,13890000
+1661,Koramangala,4,4,2,0,Unfurnished,Apartment,15,9420000
+1954,Koramangala,5,3,0,1,Semi-Furnished,Apartment,12,10390000
+1578,Hebbal,1,2,1,2,Fully-Furnished,Villa,13,13460000
+890,Malleshwaram,3,2,1,2,Semi-Furnished,Independent House,8,7580000
+2210,Yelahanka,5,3,1,2,Unfurnished,Apartment,2,7790000
+1292,Whitefield,1,1,1,2,Unfurnished,Apartment,9,9270000
+2391,KR Puram,4,2,1,2,Fully-Furnished,Villa,6,13660000
+2200,Indiranagar,5,5,1,2,Fully-Furnished,Apartment,3,18750000
+2403,Koramangala,3,3,1,0,Fully-Furnished,Villa,5,31450000
+1533,Jayanagar,1,2,0,1,Semi-Furnished,Independent House,11,14050000
+1359,Bellandur,3,3,2,1,Fully-Furnished,Apartment,11,10760000
+1348,Sarjapur Road,2,1,0,0,Semi-Furnished,Apartment,11,5660000
+2047,Banashankari,3,1,0,2,Unfurnished,Villa,2,14440000
+2117,Sarjapur Road,1,2,1,0,Semi-Furnished,Independent House,11,12710000
+1220,Hebbal,5,2,1,2,Fully-Furnished,Apartment,8,12350000
+2454,Yelahanka,4,1,1,1,Fully-Furnished,Villa,6,32730000
+1494,Bellandur,4,4,1,0,Unfurnished,Apartment,4,6310000
+2407,Rajajinagar,1,1,1,0,Unfurnished,Apartment,3,10250000
+1327,Kengeri,4,2,1,0,Fully-Furnished,Independent House,12,15150000
+1502,Banashankari,3,3,0,1,Unfurnished,Independent House,14,11860000
+2114,Kengeri,4,2,0,0,Fully-Furnished,Apartment,7,11030000
+1046,KR Puram,5,1,2,1,Fully-Furnished,Villa,5,11950000
+813,Koramangala,2,3,2,2,Unfurnished,Apartment,15,4440000
+2461,Banashankari,2,1,1,1,Fully-Furnished,Apartment,4,22050000
+1411,Kengeri,4,5,1,2,Semi-Furnished,Villa,5,6730000
+2169,BTM Layout,5,3,2,2,Unfurnished,Villa,13,15430000
+1940,Banashankari,2,1,0,2,Semi-Furnished,Apartment,3,17250000
+1910,Rajajinagar,1,1,2,2,Semi-Furnished,Apartment,10,16580000
+1414,BTM Layout,3,1,1,2,Fully-Furnished,Apartment,9,11740000
+2450,Whitefield,2,3,1,1,Unfurnished,Villa,9,12460000
+2275,Electronic City,3,1,1,2,Fully-Furnished,Apartment,14,13160000
+1563,Bannerghatta Road,5,6,2,0,Fully-Furnished,Villa,15,11860000
+1110,Malleshwaram,5,6,0,0,Unfurnished,Independent House,11,10440000
+2128,Bellandur,1,1,0,2,Fully-Furnished,Villa,6,25320000
+1831,Yelahanka,5,5,0,1,Fully-Furnished,Independent House,2,10210000
+1161,Kengeri,5,2,0,0,Unfurnished,Apartment,1,5000000
+1886,Rajajinagar,1,2,1,2,Unfurnished,Independent House,1,17100000
+1907,Sarjapur Road,2,3,1,2,Fully-Furnished,Villa,11,17220000
+2430,Yelahanka,5,3,0,0,Unfurnished,Independent House,3,17520000
+2064,Kengeri,3,4,0,0,Unfurnished,Villa,10,13630000
+2100,Electronic City,5,1,2,0,Fully-Furnished,Villa,2,25430000
+1440,Indiranagar,4,2,2,2,Unfurnished,Villa,3,11790000
+1583,Rajajinagar,5,3,1,1,Fully-Furnished,Independent House,14,16450000
+1874,Malleshwaram,1,2,1,0,Semi-Furnished,Apartment,11,15820000
+1370,BTM Layout,3,4,2,2,Fully-Furnished,Villa,14,18350000
+2169,Bannerghatta Road,5,3,1,1,Unfurnished,Villa,12,13870000
+2499,Bellandur,2,2,0,0,Fully-Furnished,Independent House,4,26080000
+1847,Bellandur,4,1,0,2,Semi-Furnished,Apartment,15,11260000
+1138,Malleshwaram,2,1,1,2,Unfurnished,Villa,1,6080000
+1799,Whitefield,4,2,0,0,Unfurnished,Independent House,8,6470000
+1778,Rajajinagar,4,3,1,0,Fully-Furnished,Independent House,7,18780000
+2195,HSR Layout,1,2,1,0,Semi-Furnished,Apartment,3,14490000
+1510,Kengeri,5,4,1,2,Semi-Furnished,Villa,6,10880000
+1502,Whitefield,4,3,1,0,Unfurnished,Independent House,8,7260000
+1304,Sarjapur Road,4,5,2,1,Fully-Furnished,Villa,7,10520000
+2264,Uttarahalli,1,1,0,1,Unfurnished,Villa,9,10630000
+2441,Rajajinagar,4,4,0,1,Unfurnished,Villa,4,18310000
+1441,Koramangala,2,3,0,0,Semi-Furnished,Villa,8,10210000
+915,Kengeri,5,6,2,2,Semi-Furnished,Independent House,6,4030000
+840,Banashankari,2,3,2,1,Fully-Furnished,Apartment,3,7340000
+1868,Kengeri,2,1,1,0,Fully-Furnished,Villa,15,9470000
+2114,Whitefield,5,5,2,1,Unfurnished,Apartment,4,9720000
+1574,Marathahalli,3,3,0,2,Unfurnished,Apartment,3,11350000
+1937,KR Puram,2,3,2,1,Semi-Furnished,Independent House,15,10250000
+1053,Marathahalli,4,4,2,0,Semi-Furnished,Villa,7,12860000
+1038,Uttarahalli,5,3,1,2,Fully-Furnished,Villa,7,13130000
+830,Kengeri,2,2,1,0,Semi-Furnished,Villa,8,9650000
+926,Bellandur,5,4,0,1,Unfurnished,Independent House,5,4630000
+1035,Marathahalli,2,1,0,0,Semi-Furnished,Apartment,15,7150000
+1660,Uttarahalli,3,3,2,2,Fully-Furnished,Independent House,11,8020000
+1794,Electronic City,1,1,2,1,Semi-Furnished,Villa,12,11540000
+934,Yelahanka,3,1,0,2,Fully-Furnished,Apartment,5,7220000
+1738,Koramangala,2,1,2,2,Semi-Furnished,Villa,6,10740000
+1708,Jayanagar,5,1,1,1,Fully-Furnished,Independent House,2,17070000
+1013,Rajajinagar,5,1,1,0,Semi-Furnished,Apartment,14,6340000
+1971,BTM Layout,2,3,1,0,Unfurnished,Independent House,10,8550000
+1907,KR Puram,2,2,1,1,Unfurnished,Independent House,7,10970000
+1139,HSR Layout,2,1,0,0,Unfurnished,Apartment,3,4470000
+1555,Bannerghatta Road,2,2,2,1,Semi-Furnished,Villa,5,13790000
+2356,Malleshwaram,3,1,0,0,Fully-Furnished,Villa,11,23380000
+1861,HSR Layout,4,5,2,1,Unfurnished,Independent House,8,14100000
+994,Hebbal,1,1,1,2,Semi-Furnished,Independent House,7,6740000
+1521,Jayanagar,2,1,2,2,Fully-Furnished,Independent House,8,10360000
+1662,Marathahalli,3,1,2,2,Semi-Furnished,Apartment,12,12120000
+918,Hebbal,2,2,1,1,Semi-Furnished,Independent House,13,9410000
+1674,JP Nagar,3,3,2,1,Unfurnished,Villa,1,12420000
+1521,Marathahalli,3,4,0,1,Fully-Furnished,Apartment,3,11620000
+2373,Yelahanka,5,1,0,2,Unfurnished,Independent House,13,12750000
+2276,HSR Layout,2,1,2,0,Fully-Furnished,Independent House,8,18710000
+2473,Indiranagar,2,2,1,1,Semi-Furnished,Independent House,14,19260000
+2203,JP Nagar,2,2,0,0,Semi-Furnished,Apartment,12,9110000
+2234,Kengeri,1,2,0,1,Semi-Furnished,Independent House,4,9480000
+1110,Malleshwaram,2,3,0,2,Unfurnished,Apartment,14,6620000
+2445,Electronic City,1,1,1,2,Semi-Furnished,Independent House,1,9870000
+1618,JP Nagar,3,1,1,2,Unfurnished,Villa,14,10330000
+1291,Rajajinagar,4,3,1,2,Semi-Furnished,Independent House,15,11910000
+1417,Bannerghatta Road,5,3,1,2,Unfurnished,Independent House,1,12720000
+2471,Banashankari,1,1,2,2,Fully-Furnished,Villa,9,26730000
+1851,Rajajinagar,4,5,2,0,Fully-Furnished,Apartment,9,14290000
+1107,Whitefield,3,4,2,2,Fully-Furnished,Independent House,10,7390000
+2042,Bellandur,1,2,2,2,Fully-Furnished,Apartment,10,16340000
+2153,Rajajinagar,4,4,1,0,Fully-Furnished,Villa,8,29200000
+1844,Hebbal,4,2,0,1,Unfurnished,Independent House,13,9050000
+1293,Uttarahalli,3,1,0,1,Unfurnished,Villa,3,7400000
+1369,Whitefield,5,4,2,2,Semi-Furnished,Apartment,13,10840000
+1949,BTM Layout,2,1,1,0,Semi-Furnished,Independent House,1,16320000
+1965,Indiranagar,4,1,2,2,Unfurnished,Apartment,12,16510000
+2234,Malleshwaram,3,2,1,2,Fully-Furnished,Villa,13,13190000
+2395,Electronic City,5,3,1,2,Semi-Furnished,Villa,10,23670000
+1826,Kengeri,3,4,2,1,Fully-Furnished,Apartment,12,14600000
+2146,Indiranagar,4,5,1,2,Unfurnished,Villa,7,14400000
+1616,Sarjapur Road,4,1,2,0,Unfurnished,Villa,6,17700000
+1491,Sarjapur Road,5,3,0,0,Unfurnished,Independent House,1,10310000
+2114,KR Puram,5,5,1,2,Unfurnished,Independent House,4,14220000
+1944,Banashankari,2,3,1,1,Fully-Furnished,Villa,12,17910000
+2210,Banashankari,3,1,0,0,Unfurnished,Independent House,7,15340000
+1380,Yelahanka,3,1,0,1,Fully-Furnished,Apartment,3,9870000
+918,Rajajinagar,3,1,2,1,Fully-Furnished,Apartment,6,5540000
+2172,Yelahanka,2,3,2,0,Semi-Furnished,Independent House,1,13950000
+2302,Hebbal,1,1,1,2,Unfurnished,Independent House,8,19000000
+1446,Electronic City,1,1,2,1,Fully-Furnished,Apartment,5,7130000
+1275,Marathahalli,3,1,1,2,Fully-Furnished,Villa,3,14420000
+2043,Uttarahalli,4,4,1,1,Fully-Furnished,Villa,6,15270000
+1249,Uttarahalli,2,2,1,2,Fully-Furnished,Apartment,15,5890000
+1594,Kengeri,4,5,1,1,Fully-Furnished,Apartment,5,14850000
+1936,Sarjapur Road,2,1,1,0,Fully-Furnished,Apartment,2,17650000
+2492,BTM Layout,4,3,1,0,Semi-Furnished,Apartment,8,17270000
+1153,Yelahanka,5,4,2,2,Fully-Furnished,Independent House,4,9470000
+1821,HSR Layout,4,5,2,2,Unfurnished,Apartment,1,11550000
+1577,Koramangala,4,2,0,0,Unfurnished,Villa,14,12240000
+2464,Jayanagar,2,2,2,0,Semi-Furnished,Independent House,7,12650000
+1732,KR Puram,4,5,0,0,Unfurnished,Apartment,8,11770000
+880,Rajajinagar,4,2,0,1,Unfurnished,Apartment,13,6180000
+1254,Bellandur,2,1,2,2,Semi-Furnished,Apartment,2,11590000
+1564,Jayanagar,5,4,0,1,Fully-Furnished,Independent House,6,16940000
+1883,Marathahalli,4,2,0,2,Fully-Furnished,Villa,11,24220000
+2183,Yelahanka,4,4,1,2,Fully-Furnished,Apartment,12,15030000
+1599,Indiranagar,5,6,1,1,Semi-Furnished,Independent House,5,12760000
+1361,Whitefield,2,2,2,0,Fully-Furnished,Independent House,7,12500000
+1915,Uttarahalli,1,2,2,0,Semi-Furnished,Apartment,7,9310000
+1235,Koramangala,1,2,0,1,Unfurnished,Villa,10,7030000
+1177,Uttarahalli,1,2,0,0,Unfurnished,Independent House,10,10960000
+1558,BTM Layout,4,3,0,0,Semi-Furnished,Independent House,8,7350000
+1745,Hebbal,4,3,2,2,Unfurnished,Independent House,1,11280000
+1936,Malleshwaram,5,1,0,2,Fully-Furnished,Apartment,14,12010000
+1782,Electronic City,2,1,1,0,Unfurnished,Villa,4,8520000
+1537,Malleshwaram,1,1,1,1,Fully-Furnished,Apartment,11,10230000
+1518,Malleshwaram,3,3,1,0,Fully-Furnished,Apartment,10,10300000
+1034,Bellandur,2,1,0,0,Semi-Furnished,Apartment,12,5630000
+2280,Bannerghatta Road,4,2,1,2,Unfurnished,Independent House,2,11010000
+2411,Yelahanka,1,2,0,2,Semi-Furnished,Independent House,3,20340000
+2213,Koramangala,3,1,1,0,Semi-Furnished,Villa,8,19330000
+1045,Bellandur,5,5,2,2,Unfurnished,Villa,8,7200000
+1057,Hebbal,4,1,0,2,Semi-Furnished,Independent House,6,11010000
+1864,Rajajinagar,2,1,2,1,Unfurnished,Apartment,2,14290000
+1310,Bellandur,3,1,0,0,Semi-Furnished,Apartment,2,9100000
+1134,Indiranagar,3,3,0,2,Semi-Furnished,Apartment,11,5650000
+2439,Banashankari,5,4,2,1,Semi-Furnished,Apartment,5,21250000
+2268,Bellandur,3,4,2,2,Semi-Furnished,Independent House,8,14420000
+2307,Electronic City,2,3,2,0,Unfurnished,Independent House,1,20340000
+938,Banashankari,2,1,0,0,Semi-Furnished,Independent House,11,5890000
+1941,Bannerghatta Road,2,3,0,2,Unfurnished,Villa,5,15130000
+1896,Hebbal,3,3,2,2,Semi-Furnished,Independent House,7,9840000
+1224,Koramangala,1,2,2,0,Unfurnished,Apartment,6,4790000
+2456,Sarjapur Road,5,1,0,0,Unfurnished,Independent House,1,13570000
+1927,Malleshwaram,4,5,2,1,Fully-Furnished,Independent House,11,16910000
+1660,Marathahalli,4,3,0,1,Fully-Furnished,Apartment,8,14020000
+888,Sarjapur Road,4,4,0,0,Fully-Furnished,Apartment,4,8780000
+2274,Malleshwaram,4,3,0,2,Semi-Furnished,Apartment,2,13870000
+1111,Electronic City,2,3,2,1,Fully-Furnished,Apartment,15,9200000
+2267,Koramangala,5,1,1,2,Unfurnished,Apartment,12,18500000
+1491,Bannerghatta Road,4,5,0,2,Semi-Furnished,Villa,7,17110000
+1515,Hebbal,2,1,1,0,Fully-Furnished,Villa,15,13680000
+1131,Sarjapur Road,3,1,0,0,Fully-Furnished,Villa,8,9720000
+1145,KR Puram,3,1,1,2,Fully-Furnished,Apartment,6,4900000
+1116,KR Puram,2,3,2,1,Semi-Furnished,Apartment,15,5810000
+2438,Koramangala,5,6,1,0,Semi-Furnished,Villa,15,21680000
+2164,Electronic City,4,2,2,0,Semi-Furnished,Villa,15,17150000
+1701,Indiranagar,1,1,0,1,Fully-Furnished,Apartment,5,16210000
+2138,Hebbal,2,3,1,1,Semi-Furnished,Apartment,4,15670000
+2280,Sarjapur Road,2,1,2,2,Unfurnished,Apartment,5,13780000
+1378,Electronic City,5,5,0,0,Semi-Furnished,Apartment,15,5160000
+1046,Hebbal,5,2,0,1,Fully-Furnished,Independent House,6,10720000
+1281,Rajajinagar,3,4,2,1,Unfurnished,Villa,2,8540000
+2218,Banashankari,2,3,2,1,Unfurnished,Apartment,2,7370000
+1872,Indiranagar,5,5,1,0,Unfurnished,Apartment,10,15640000
+1229,Electronic City,3,3,0,2,Semi-Furnished,Villa,5,14120000
+1810,Bannerghatta Road,4,2,1,0,Unfurnished,Independent House,13,15400000
+1862,Bannerghatta Road,4,5,0,2,Unfurnished,Independent House,8,14730000
+2121,Uttarahalli,4,3,1,0,Semi-Furnished,Villa,9,25790000
+1636,HSR Layout,1,2,1,1,Unfurnished,Apartment,5,7770000
+1654,Jayanagar,2,1,0,1,Unfurnished,Apartment,15,11140000
+2262,Sarjapur Road,2,3,0,0,Unfurnished,Apartment,1,10650000
+2250,Bannerghatta Road,5,4,1,0,Semi-Furnished,Apartment,6,11230000
+847,Banashankari,5,5,0,2,Semi-Furnished,Apartment,14,8010000
+2443,Bellandur,3,4,1,2,Unfurnished,Independent House,11,8620000
+1324,Whitefield,4,3,2,1,Semi-Furnished,Villa,5,6180000
+954,Rajajinagar,3,3,1,0,Semi-Furnished,Villa,9,11460000
+1663,HSR Layout,4,2,1,2,Semi-Furnished,Independent House,1,11710000
+1876,Rajajinagar,3,1,2,0,Unfurnished,Independent House,15,12820000
+1757,Uttarahalli,2,3,1,1,Fully-Furnished,Villa,15,19870000
+1042,Bannerghatta Road,5,5,0,2,Fully-Furnished,Villa,4,11560000
+1186,JP Nagar,4,5,2,2,Unfurnished,Independent House,6,10340000
+1642,Hebbal,4,5,2,1,Fully-Furnished,Apartment,6,14840000
+819,Bannerghatta Road,4,1,1,1,Semi-Furnished,Villa,6,7440000
+1913,Hebbal,5,6,2,0,Fully-Furnished,Villa,6,22820000
+2114,KR Puram,4,4,0,1,Semi-Furnished,Independent House,1,8860000
+2457,Indiranagar,3,3,0,2,Semi-Furnished,Independent House,12,10810000
+1718,BTM Layout,3,4,1,2,Fully-Furnished,Villa,9,14420000
+927,Yelahanka,2,2,0,2,Fully-Furnished,Independent House,4,5050000
+1522,Yelahanka,1,2,1,0,Semi-Furnished,Independent House,6,13660000
+1204,Koramangala,1,1,0,0,Fully-Furnished,Independent House,15,9660000
+986,Rajajinagar,2,1,1,2,Semi-Furnished,Villa,4,6110000
+1557,Banashankari,4,2,0,1,Fully-Furnished,Apartment,6,10160000
+1302,BTM Layout,5,1,1,1,Fully-Furnished,Villa,7,9530000
+1555,Kengeri,5,5,2,0,Unfurnished,Apartment,12,6700000
+1531,BTM Layout,5,1,2,2,Fully-Furnished,Apartment,9,8410000
+1432,HSR Layout,2,2,2,1,Fully-Furnished,Apartment,5,10350000
+1109,Yelahanka,4,2,0,2,Unfurnished,Independent House,5,5030000
+1000,Malleshwaram,2,3,0,2,Fully-Furnished,Independent House,4,8780000
+1647,Rajajinagar,2,2,1,2,Semi-Furnished,Villa,2,11520000
+1712,BTM Layout,5,4,0,2,Unfurnished,Independent House,11,14230000
+2295,Bellandur,1,1,1,1,Unfurnished,Villa,12,15260000
+820,Marathahalli,4,3,1,2,Unfurnished,Independent House,1,6520000
+2031,Whitefield,3,2,0,0,Unfurnished,Apartment,3,16950000
+914,Bellandur,4,3,2,1,Fully-Furnished,Apartment,2,5340000
+1380,Sarjapur Road,3,1,2,2,Semi-Furnished,Apartment,11,10510000
+2239,JP Nagar,2,3,1,2,Semi-Furnished,Apartment,14,18540000
+1592,Bellandur,1,1,0,1,Fully-Furnished,Independent House,14,13410000
+1986,Sarjapur Road,2,2,1,0,Semi-Furnished,Apartment,14,18730000
+1731,Uttarahalli,5,6,1,0,Semi-Furnished,Independent House,15,14240000
+2098,JP Nagar,3,2,1,0,Fully-Furnished,Villa,12,27630000
+1874,Yelahanka,1,2,1,0,Fully-Furnished,Apartment,8,14440000
+1406,Yelahanka,3,1,2,1,Unfurnished,Villa,11,11170000
+843,Malleshwaram,5,2,2,0,Fully-Furnished,Villa,6,10460000
+2310,Indiranagar,1,2,1,0,Fully-Furnished,Independent House,2,21700000
+1895,Marathahalli,3,3,0,1,Fully-Furnished,Villa,12,20250000
+1550,Sarjapur Road,5,6,2,0,Semi-Furnished,Apartment,13,7430000
+2047,Sarjapur Road,2,3,1,1,Fully-Furnished,Villa,3,12900000
+2002,Hebbal,5,2,1,1,Semi-Furnished,Apartment,14,17890000
+2183,Yelahanka,2,2,0,2,Unfurnished,Independent House,3,10170000
+1193,Marathahalli,1,1,1,2,Fully-Furnished,Villa,14,12790000
+2446,Banashankari,3,3,2,0,Fully-Furnished,Apartment,14,10610000
+2380,Hebbal,5,3,0,0,Fully-Furnished,Independent House,8,14810000
+1170,Yelahanka,2,2,0,0,Unfurnished,Independent House,5,4260000
+1675,Yelahanka,1,1,1,0,Semi-Furnished,Villa,1,10200000
+1623,Malleshwaram,2,2,1,1,Unfurnished,Independent House,15,14760000
+2380,Malleshwaram,4,1,0,1,Semi-Furnished,Villa,1,24960000
+2002,Sarjapur Road,3,4,1,0,Fully-Furnished,Apartment,15,16260000
+1196,Kengeri,2,2,2,0,Semi-Furnished,Apartment,12,7830000
+969,Indiranagar,1,2,2,2,Fully-Furnished,Villa,4,11290000
+885,Bannerghatta Road,3,1,2,0,Fully-Furnished,Villa,4,4680000
+952,Electronic City,1,2,2,2,Unfurnished,Villa,15,7540000
+1368,Hebbal,2,3,0,0,Unfurnished,Apartment,5,6220000
+872,Bannerghatta Road,5,6,0,0,Semi-Furnished,Apartment,11,4730000
+2056,BTM Layout,4,3,1,1,Unfurnished,Independent House,1,13440000
+1981,Bannerghatta Road,5,4,1,2,Unfurnished,Independent House,8,14640000
+2356,Bellandur,4,4,0,1,Unfurnished,Villa,1,17670000
+2106,HSR Layout,4,3,2,1,Semi-Furnished,Apartment,9,10830000
+1627,Sarjapur Road,3,3,2,1,Unfurnished,Independent House,6,9810000
+1204,Hebbal,5,1,2,1,Unfurnished,Apartment,8,4350000
+2366,Bellandur,3,1,2,0,Semi-Furnished,Independent House,15,22660000
+1470,JP Nagar,5,1,2,2,Semi-Furnished,Villa,8,15900000
+1638,Banashankari,4,5,0,1,Semi-Furnished,Apartment,7,13360000
+1706,Banashankari,2,1,1,1,Unfurnished,Villa,6,18920000
+2079,Sarjapur Road,2,1,1,0,Fully-Furnished,Apartment,8,8360000
+1181,Koramangala,1,1,2,1,Semi-Furnished,Independent House,11,8050000
+1172,HSR Layout,4,5,2,1,Unfurnished,Villa,4,7970000
+2310,Malleshwaram,3,1,0,1,Unfurnished,Independent House,9,11190000
+2061,Malleshwaram,3,4,2,1,Unfurnished,Villa,14,10950000
+1664,KR Puram,2,1,1,1,Unfurnished,Independent House,12,11340000
+847,Rajajinagar,1,2,1,2,Semi-Furnished,Independent House,14,5840000
+1538,JP Nagar,1,1,1,0,Unfurnished,Villa,14,9270000
+845,Electronic City,4,1,0,0,Unfurnished,Apartment,13,3000000
+1778,JP Nagar,4,1,1,0,Semi-Furnished,Independent House,15,17480000
+1230,Uttarahalli,1,2,2,1,Fully-Furnished,Independent House,12,10760000
+1716,Malleshwaram,4,3,0,1,Unfurnished,Villa,5,7340000
+1916,BTM Layout,2,3,2,0,Unfurnished,Independent House,13,13960000
+908,Uttarahalli,2,3,0,0,Fully-Furnished,Independent House,12,8900000
+2104,Sarjapur Road,5,6,2,2,Unfurnished,Villa,7,14210000
+2240,Bellandur,1,2,1,1,Semi-Furnished,Villa,1,22150000
+882,Hebbal,2,2,0,0,Unfurnished,Independent House,8,7860000
+1514,Jayanagar,5,4,1,0,Fully-Furnished,Villa,9,19830000
+2399,JP Nagar,5,5,1,0,Semi-Furnished,Villa,7,25920000
+2052,JP Nagar,3,3,1,1,Fully-Furnished,Villa,14,25640000
+1339,Electronic City,2,1,2,2,Semi-Furnished,Independent House,7,9190000
+1642,Banashankari,1,2,0,0,Semi-Furnished,Apartment,14,9860000
+849,Electronic City,4,2,2,1,Fully-Furnished,Villa,1,7890000
+2374,JP Nagar,3,3,1,1,Unfurnished,Apartment,2,15240000
+2339,BTM Layout,2,2,0,2,Fully-Furnished,Apartment,15,9410000
+1398,BTM Layout,3,2,2,0,Fully-Furnished,Villa,10,7220000
+998,Indiranagar,2,1,2,0,Semi-Furnished,Apartment,12,9230000
+2236,HSR Layout,5,2,2,1,Fully-Furnished,Independent House,1,11320000
+1215,KR Puram,2,1,0,0,Semi-Furnished,Apartment,12,5510000
+833,KR Puram,4,5,1,2,Fully-Furnished,Villa,12,10350000
+2358,Bellandur,5,3,1,0,Fully-Furnished,Apartment,14,15630000
+989,Sarjapur Road,3,1,2,1,Semi-Furnished,Independent House,5,7050000
+2382,HSR Layout,1,1,2,1,Fully-Furnished,Apartment,3,20750000
+2222,Bannerghatta Road,1,2,2,2,Unfurnished,Villa,9,19670000
+1527,Hebbal,2,1,0,0,Fully-Furnished,Independent House,1,17380000
+1008,Koramangala,5,3,1,2,Semi-Furnished,Villa,10,11240000
+968,Sarjapur Road,2,3,0,1,Semi-Furnished,Villa,3,9310000
+2113,JP Nagar,5,3,0,1,Unfurnished,Independent House,13,16780000
+2269,Rajajinagar,2,2,0,0,Semi-Furnished,Independent House,10,21040000
+2399,Yelahanka,5,1,0,2,Fully-Furnished,Villa,2,15620000
+948,Hebbal,2,2,2,2,Fully-Furnished,Independent House,13,7270000
+1073,Banashankari,3,1,1,0,Semi-Furnished,Villa,15,8250000
+1986,BTM Layout,2,1,2,2,Fully-Furnished,Independent House,5,15430000
+2067,Banashankari,5,5,2,2,Fully-Furnished,Independent House,9,14340000
+1768,Jayanagar,2,3,0,0,Semi-Furnished,Villa,14,21200000
+1256,Whitefield,2,2,2,1,Semi-Furnished,Apartment,6,10340000
+2261,Banashankari,3,2,0,0,Semi-Furnished,Villa,9,27250000
+2423,Electronic City,3,4,0,0,Unfurnished,Villa,14,26290000
+1276,Bannerghatta Road,3,3,1,1,Semi-Furnished,Independent House,12,5440000
+1001,Kengeri,3,2,1,1,Fully-Furnished,Independent House,12,9980000
+1581,JP Nagar,5,2,0,0,Fully-Furnished,Villa,12,10230000
+858,Marathahalli,2,1,1,0,Semi-Furnished,Villa,2,9840000
+813,Yelahanka,1,1,2,2,Fully-Furnished,Villa,15,8350000
+1623,Koramangala,2,3,2,0,Unfurnished,Independent House,11,14190000
+1321,Yelahanka,2,1,2,1,Fully-Furnished,Independent House,12,14570000
+1506,Uttarahalli,2,1,0,1,Fully-Furnished,Independent House,9,7050000
+1018,Electronic City,4,5,1,0,Unfurnished,Villa,6,4220000
+1623,Hebbal,3,4,2,0,Unfurnished,Apartment,15,6500000
+808,Jayanagar,1,2,2,2,Fully-Furnished,Apartment,4,7250000
+1311,Electronic City,2,2,1,2,Semi-Furnished,Apartment,12,10170000
+1952,HSR Layout,3,1,2,0,Unfurnished,Villa,12,14270000
+2100,Banashankari,5,3,1,1,Semi-Furnished,Villa,7,19240000
+1711,Yelahanka,3,3,2,0,Fully-Furnished,Apartment,14,9220000
+2185,Bellandur,1,2,0,2,Unfurnished,Apartment,11,10230000
+1440,Sarjapur Road,5,3,1,0,Fully-Furnished,Apartment,13,13200000
+1367,KR Puram,4,2,0,1,Unfurnished,Villa,9,8940000
+1862,HSR Layout,3,2,0,0,Semi-Furnished,Villa,9,17170000
+1596,KR Puram,2,3,0,0,Unfurnished,Apartment,11,7880000
+1406,Uttarahalli,4,5,2,0,Unfurnished,Villa,7,8370000
+1724,HSR Layout,3,3,1,0,Semi-Furnished,Apartment,6,10470000
+2391,Koramangala,5,2,2,0,Semi-Furnished,Independent House,8,23030000
+1864,JP Nagar,3,2,0,2,Fully-Furnished,Villa,2,24130000
+2063,Hebbal,3,3,0,1,Unfurnished,Apartment,8,14580000
+1444,KR Puram,3,1,2,0,Semi-Furnished,Apartment,15,8480000
+2149,Marathahalli,4,2,0,2,Semi-Furnished,Apartment,1,10420000
+2202,Electronic City,4,5,1,2,Fully-Furnished,Apartment,9,20110000
+2491,Uttarahalli,3,4,0,1,Fully-Furnished,Apartment,1,11840000
+2451,Marathahalli,4,2,2,1,Unfurnished,Villa,9,13970000
+1141,Whitefield,5,3,0,0,Semi-Furnished,Villa,14,9790000
+1400,Kengeri,4,3,0,2,Fully-Furnished,Independent House,15,6360000
+1510,Rajajinagar,4,2,0,1,Unfurnished,Apartment,11,9850000
+822,Banashankari,5,4,0,2,Semi-Furnished,Villa,9,5170000
+1099,Jayanagar,5,1,1,1,Semi-Furnished,Villa,13,9810000
+2248,Koramangala,5,6,1,1,Fully-Furnished,Independent House,3,16390000
+2234,Hebbal,5,2,0,0,Semi-Furnished,Villa,8,16130000
+2106,Whitefield,3,4,1,1,Semi-Furnished,Independent House,2,9580000
+2409,HSR Layout,4,5,2,2,Semi-Furnished,Independent House,10,18920000
+1928,Sarjapur Road,3,4,1,0,Unfurnished,Villa,4,13090000
+2005,Koramangala,1,2,2,2,Fully-Furnished,Villa,1,12100000
+1863,Uttarahalli,4,2,1,1,Fully-Furnished,Apartment,6,11050000
+2088,HSR Layout,5,4,1,1,Fully-Furnished,Apartment,15,18910000
+1593,Malleshwaram,4,3,2,2,Fully-Furnished,Independent House,5,17100000
+916,Jayanagar,3,4,2,1,Fully-Furnished,Independent House,8,9460000
+1683,Bannerghatta Road,4,1,1,1,Fully-Furnished,Apartment,10,11670000
+1802,HSR Layout,3,3,0,1,Fully-Furnished,Villa,7,13700000
+1261,JP Nagar,1,2,0,2,Fully-Furnished,Apartment,3,11600000
+1090,Yelahanka,1,1,1,0,Fully-Furnished,Independent House,8,7420000
+2306,Uttarahalli,3,3,1,0,Fully-Furnished,Independent House,7,18290000
+1092,Banashankari,5,5,2,1,Fully-Furnished,Apartment,13,7380000
+2321,Rajajinagar,2,3,0,2,Fully-Furnished,Villa,5,29050000
+1250,Bellandur,5,6,0,1,Unfurnished,Villa,15,5740000
+1421,Marathahalli,5,4,2,0,Unfurnished,Independent House,12,10680000
+1698,Uttarahalli,2,1,2,0,Semi-Furnished,Independent House,11,10300000
+1711,Sarjapur Road,5,3,2,0,Unfurnished,Independent House,14,8870000
+892,Rajajinagar,1,1,0,0,Unfurnished,Villa,4,9460000
+2114,Indiranagar,1,1,1,0,Fully-Furnished,Apartment,12,21460000
+1273,Yelahanka,3,1,2,0,Fully-Furnished,Independent House,13,10600000
+1715,Bellandur,2,2,1,1,Unfurnished,Apartment,14,12580000
+1595,BTM Layout,4,4,1,0,Fully-Furnished,Apartment,11,12280000
+1854,JP Nagar,2,1,2,0,Fully-Furnished,Villa,7,17320000
+1063,Whitefield,5,3,1,0,Semi-Furnished,Apartment,13,4610000
+1871,Jayanagar,2,1,1,2,Fully-Furnished,Independent House,6,16210000
+1135,Koramangala,1,1,0,0,Semi-Furnished,Villa,9,9100000
+1956,HSR Layout,1,2,1,1,Unfurnished,Apartment,2,10830000
+976,Banashankari,2,3,2,0,Unfurnished,Independent House,5,4970000
+1699,Malleshwaram,4,3,2,2,Semi-Furnished,Villa,15,10050000
+1027,Bellandur,5,1,0,0,Fully-Furnished,Villa,2,10200000
+2220,Banashankari,5,4,0,0,Unfurnished,Independent House,7,16440000
+2015,HSR Layout,4,1,1,0,Unfurnished,Independent House,9,8610000
+2059,Marathahalli,2,1,2,0,Fully-Furnished,Independent House,15,22430000
+1670,BTM Layout,2,1,2,2,Unfurnished,Apartment,12,5580000
+2391,Whitefield,1,2,0,0,Fully-Furnished,Villa,5,13730000
+2223,Sarjapur Road,1,2,1,0,Semi-Furnished,Apartment,12,12310000
+2058,Bellandur,4,1,1,0,Fully-Furnished,Apartment,14,13950000
+2184,Whitefield,5,5,0,0,Fully-Furnished,Villa,13,28940000
+2444,Banashankari,1,1,2,0,Semi-Furnished,Independent House,2,19880000
+1010,Bannerghatta Road,2,2,2,1,Semi-Furnished,Apartment,5,7950000
+1751,Malleshwaram,5,3,0,0,Unfurnished,Independent House,1,11490000
+1951,Sarjapur Road,2,1,0,1,Unfurnished,Independent House,14,12110000
+2365,Rajajinagar,3,1,2,0,Unfurnished,Independent House,13,13320000
+2047,Marathahalli,4,4,2,2,Unfurnished,Apartment,14,7970000
+1762,KR Puram,3,2,0,0,Unfurnished,Independent House,7,13830000
+1137,Malleshwaram,3,4,1,2,Semi-Furnished,Independent House,5,6180000
+989,Bellandur,3,3,0,0,Semi-Furnished,Independent House,15,10240000
+1106,Hebbal,5,2,2,2,Unfurnished,Independent House,7,3940000
+1351,BTM Layout,3,3,0,0,Fully-Furnished,Independent House,8,14390000
+2103,BTM Layout,3,4,2,0,Semi-Furnished,Apartment,1,10520000
+1451,BTM Layout,2,2,1,2,Fully-Furnished,Independent House,14,9430000
+1349,Bellandur,2,2,0,1,Semi-Furnished,Apartment,9,10380000
+1100,Malleshwaram,4,5,0,2,Fully-Furnished,Independent House,13,11870000
+860,Whitefield,4,4,0,0,Semi-Furnished,Independent House,1,5310000
+829,Whitefield,3,1,1,1,Unfurnished,Villa,1,7250000
+1406,Malleshwaram,4,4,2,1,Fully-Furnished,Independent House,4,11810000
+811,Uttarahalli,5,2,1,2,Fully-Furnished,Independent House,1,5360000
+2337,Rajajinagar,3,2,1,1,Semi-Furnished,Apartment,13,9550000
+1083,Bellandur,3,3,0,0,Unfurnished,Apartment,6,5960000
+1374,Uttarahalli,2,3,1,2,Fully-Furnished,Independent House,3,7750000
+2007,Indiranagar,5,3,1,2,Semi-Furnished,Villa,14,10360000
+2247,Indiranagar,4,3,1,2,Semi-Furnished,Villa,7,22970000
+1554,Jayanagar,1,1,1,0,Semi-Furnished,Apartment,7,6710000
+1118,Banashankari,1,2,2,1,Unfurnished,Apartment,2,4200000
+1404,HSR Layout,4,5,2,2,Fully-Furnished,Independent House,14,14730000
+872,Uttarahalli,5,1,0,1,Fully-Furnished,Apartment,6,8250000
+1825,Marathahalli,4,3,0,0,Unfurnished,Apartment,9,9510000
+2170,Banashankari,4,2,0,1,Fully-Furnished,Apartment,8,18960000
+1446,Uttarahalli,4,2,1,0,Unfurnished,Villa,6,10310000
+2307,JP Nagar,4,2,0,2,Semi-Furnished,Apartment,14,18370000
+2426,Banashankari,3,3,2,1,Semi-Furnished,Apartment,2,20540000
+1667,Marathahalli,4,3,1,2,Fully-Furnished,Villa,8,15200000
+1443,HSR Layout,1,2,1,0,Unfurnished,Independent House,2,5850000
+1642,Hebbal,4,1,0,1,Semi-Furnished,Villa,9,12060000
+1480,Yelahanka,1,2,1,0,Semi-Furnished,Independent House,12,5770000
+1623,Koramangala,2,1,1,2,Unfurnished,Villa,3,11930000
+1294,Yelahanka,1,1,1,2,Semi-Furnished,Apartment,7,9740000
+2369,HSR Layout,3,3,1,0,Unfurnished,Villa,14,10890000
+853,Koramangala,3,1,2,1,Fully-Furnished,Independent House,7,4850000
+2309,Yelahanka,4,2,0,2,Semi-Furnished,Independent House,1,23330000
+922,Koramangala,1,2,2,0,Fully-Furnished,Apartment,14,5720000
+2157,HSR Layout,3,4,2,1,Fully-Furnished,Villa,14,26850000
+1998,JP Nagar,2,1,0,2,Unfurnished,Independent House,15,11690000
+1376,Marathahalli,1,2,2,0,Semi-Furnished,Villa,11,7330000
+941,Jayanagar,1,2,0,2,Fully-Furnished,Apartment,5,7590000
+1842,Jayanagar,2,1,1,1,Fully-Furnished,Independent House,4,11400000
+1502,Bannerghatta Road,1,1,0,2,Fully-Furnished,Apartment,7,10820000
+1854,Hebbal,3,4,0,0,Unfurnished,Independent House,13,12430000
+1122,Indiranagar,2,3,1,1,Fully-Furnished,Apartment,7,10630000
+1815,Marathahalli,3,3,0,1,Semi-Furnished,Villa,11,20840000
+2425,Yelahanka,4,4,1,2,Fully-Furnished,Villa,15,16210000
+2450,Yelahanka,5,3,2,2,Unfurnished,Villa,9,12500000
+2067,Koramangala,4,1,0,0,Unfurnished,Independent House,14,11900000
+2303,Malleshwaram,3,4,1,0,Unfurnished,Villa,3,13540000
+1869,Bannerghatta Road,4,5,1,1,Semi-Furnished,Apartment,2,8410000
+1859,KR Puram,4,4,2,1,Unfurnished,Villa,10,20090000
+1417,Indiranagar,3,3,2,1,Semi-Furnished,Independent House,3,13940000
+2261,Jayanagar,3,4,2,1,Fully-Furnished,Independent House,14,18340000
+1907,Koramangala,2,3,2,2,Unfurnished,Independent House,2,13540000
+2251,Bellandur,2,1,2,1,Unfurnished,Villa,5,10950000
+2401,Rajajinagar,4,4,2,0,Fully-Furnished,Villa,14,19410000
+1245,Banashankari,3,4,1,1,Fully-Furnished,Villa,7,7660000
+1914,Yelahanka,5,6,1,2,Unfurnished,Villa,9,15130000
+2400,BTM Layout,5,6,0,0,Fully-Furnished,Independent House,12,18730000
+1759,Bellandur,2,1,0,0,Semi-Furnished,Villa,13,14750000
+2098,Indiranagar,4,4,1,0,Fully-Furnished,Independent House,7,13640000
+1674,HSR Layout,4,4,0,0,Fully-Furnished,Independent House,3,18120000
+1391,JP Nagar,4,2,1,1,Fully-Furnished,Villa,15,18110000
+1796,Malleshwaram,3,1,1,2,Unfurnished,Apartment,10,10310000
+922,Banashankari,2,1,2,0,Unfurnished,Villa,15,5320000
+1766,Jayanagar,3,4,0,1,Semi-Furnished,Apartment,8,12340000
+1912,Yelahanka,3,1,1,0,Fully-Furnished,Independent House,15,11140000
+1564,Jayanagar,3,1,0,2,Semi-Furnished,Independent House,5,12640000
+2316,HSR Layout,3,2,2,2,Fully-Furnished,Independent House,6,10280000
+1011,Sarjapur Road,2,3,0,1,Unfurnished,Villa,1,7140000
+2111,Whitefield,3,3,2,2,Unfurnished,Independent House,1,17900000
+1424,JP Nagar,5,5,1,2,Unfurnished,Villa,5,15030000
+1109,Kengeri,5,4,2,1,Fully-Furnished,Apartment,2,10250000
+822,Bannerghatta Road,4,2,1,0,Semi-Furnished,Apartment,12,6980000
+1061,Banashankari,2,1,0,1,Unfurnished,Independent House,6,5260000
+2010,Electronic City,2,3,1,1,Unfurnished,Independent House,6,14280000
+839,Banashankari,4,3,1,2,Semi-Furnished,Apartment,15,5600000
+2271,Jayanagar,3,4,2,2,Unfurnished,Villa,4,14230000
+1641,Electronic City,1,1,2,2,Fully-Furnished,Independent House,2,16610000
+803,HSR Layout,1,2,0,2,Unfurnished,Apartment,14,4230000
+1556,Hebbal,2,1,1,1,Semi-Furnished,Apartment,1,10880000
+891,Bannerghatta Road,5,3,2,0,Unfurnished,Apartment,7,4460000
+1392,BTM Layout,3,1,2,2,Semi-Furnished,Villa,7,12550000
+1624,KR Puram,3,1,2,0,Semi-Furnished,Independent House,6,15220000
+1084,Bannerghatta Road,4,1,2,2,Unfurnished,Independent House,11,8380000
+1557,Malleshwaram,1,2,0,2,Fully-Furnished,Independent House,1,13500000
+1380,KR Puram,2,3,2,1,Semi-Furnished,Villa,11,10460000
+1948,HSR Layout,3,3,0,0,Fully-Furnished,Apartment,3,19530000
+1323,Bellandur,4,5,0,2,Unfurnished,Apartment,1,9000000
+1398,KR Puram,2,3,1,0,Unfurnished,Villa,12,8070000
+999,Bellandur,2,1,2,0,Unfurnished,Villa,10,4710000
+2108,Bellandur,3,3,0,2,Fully-Furnished,Villa,11,17350000
+1058,KR Puram,4,4,2,1,Fully-Furnished,Independent House,1,10320000
+2258,Electronic City,5,6,1,2,Unfurnished,Villa,14,12480000
+1649,Yelahanka,2,3,0,1,Unfurnished,Independent House,8,14610000
+1522,Hebbal,3,3,1,1,Semi-Furnished,Apartment,2,11950000
+2278,KR Puram,4,2,2,0,Unfurnished,Villa,7,19360000
+2277,Bannerghatta Road,1,1,1,0,Fully-Furnished,Apartment,14,23770000
+1266,Whitefield,5,4,0,1,Semi-Furnished,Independent House,15,9520000
+2279,Koramangala,5,5,0,0,Fully-Furnished,Independent House,7,20940000
+1581,Yelahanka,3,1,2,2,Unfurnished,Apartment,10,10180000
+1560,Malleshwaram,2,2,2,0,Unfurnished,Apartment,1,10300000
+2484,Malleshwaram,2,2,0,0,Semi-Furnished,Villa,7,21030000
+1288,Whitefield,2,1,1,2,Fully-Furnished,Independent House,11,11950000
+1691,Whitefield,5,6,1,2,Unfurnished,Apartment,6,8640000
+2364,Electronic City,1,1,1,2,Unfurnished,Independent House,7,22140000
+1663,Electronic City,3,1,1,2,Semi-Furnished,Villa,14,15110000
+1785,Yelahanka,5,4,0,0,Fully-Furnished,Villa,11,12890000
+1191,Jayanagar,5,4,2,2,Fully-Furnished,Villa,15,11360000
+1437,Bannerghatta Road,5,5,2,0,Semi-Furnished,Villa,5,16760000
+1496,BTM Layout,2,3,1,1,Fully-Furnished,Apartment,2,12950000
+1076,Kengeri,4,1,0,0,Unfurnished,Apartment,2,6910000
+2220,Jayanagar,5,3,2,2,Semi-Furnished,Independent House,2,14130000
+1484,Kengeri,3,4,0,0,Semi-Furnished,Independent House,15,11250000
+830,HSR Layout,3,1,0,2,Fully-Furnished,Apartment,4,5350000
+1488,BTM Layout,4,1,1,1,Fully-Furnished,Apartment,1,6360000
+980,Banashankari,5,6,2,1,Semi-Furnished,Independent House,8,8200000
+2425,Banashankari,3,1,1,0,Semi-Furnished,Villa,8,20580000
+2001,Bellandur,5,6,0,0,Semi-Furnished,Apartment,3,9260000
+1328,BTM Layout,4,1,0,2,Fully-Furnished,Independent House,15,6580000
+2445,Rajajinagar,5,6,2,0,Fully-Furnished,Independent House,8,16940000
+943,BTM Layout,2,3,1,0,Fully-Furnished,Villa,7,8390000
+889,Hebbal,5,6,2,2,Unfurnished,Apartment,4,2850000
+2130,Banashankari,5,6,0,2,Unfurnished,Independent House,11,9550000
+997,Indiranagar,3,2,0,1,Unfurnished,Independent House,5,4860000
+2058,Rajajinagar,2,2,1,1,Unfurnished,Independent House,6,11880000
+1854,Banashankari,5,4,2,2,Unfurnished,Villa,4,20500000
+1558,BTM Layout,5,1,0,2,Fully-Furnished,Villa,14,16340000
+1560,Whitefield,5,5,1,1,Semi-Furnished,Apartment,2,12890000
+1061,Marathahalli,4,1,2,2,Unfurnished,Apartment,6,5000000
+1277,Kengeri,5,3,1,2,Fully-Furnished,Villa,11,15870000
+835,Banashankari,1,1,2,2,Fully-Furnished,Apartment,9,7070000
+2261,KR Puram,4,3,2,1,Fully-Furnished,Apartment,1,9790000
+1496,Bellandur,5,6,0,0,Fully-Furnished,Villa,14,14840000
+881,Banashankari,3,4,1,1,Fully-Furnished,Independent House,8,4630000
+1327,KR Puram,5,6,0,1,Semi-Furnished,Apartment,3,8190000
+1052,Hebbal,1,2,1,0,Fully-Furnished,Apartment,14,8370000
+1155,Sarjapur Road,5,2,0,1,Unfurnished,Independent House,6,9560000
+1984,Banashankari,4,2,2,1,Semi-Furnished,Apartment,13,16240000
+1194,Electronic City,3,1,0,0,Fully-Furnished,Apartment,12,5970000
+1244,Hebbal,5,5,2,0,Semi-Furnished,Villa,11,9980000
+1740,Jayanagar,3,2,2,1,Semi-Furnished,Apartment,8,15850000
+1419,Bellandur,3,2,1,0,Unfurnished,Apartment,4,5790000
+1337,Bannerghatta Road,5,6,2,2,Unfurnished,Independent House,4,6390000
+2130,Indiranagar,3,3,0,0,Semi-Furnished,Apartment,9,7840000
+1972,HSR Layout,4,2,1,1,Unfurnished,Villa,10,13470000
+2066,Jayanagar,2,3,2,2,Fully-Furnished,Independent House,11,12790000
+2159,Koramangala,1,2,1,1,Fully-Furnished,Apartment,8,8430000
+1967,Whitefield,2,2,2,1,Fully-Furnished,Independent House,7,14310000
+936,Banashankari,3,4,0,0,Unfurnished,Independent House,10,3410000
+2340,Electronic City,3,4,1,0,Semi-Furnished,Independent House,2,23910000
+2295,Koramangala,2,3,2,1,Unfurnished,Villa,3,22860000
+886,Yelahanka,5,1,1,2,Semi-Furnished,Independent House,9,4630000
+1176,Uttarahalli,2,3,2,1,Unfurnished,Apartment,7,10040000
+984,KR Puram,4,4,1,0,Fully-Furnished,Apartment,9,7680000
+1610,BTM Layout,2,2,1,1,Unfurnished,Independent House,13,11630000
+1146,Malleshwaram,4,3,1,1,Unfurnished,Villa,1,11380000
+2071,Yelahanka,1,1,2,1,Semi-Furnished,Independent House,11,12600000
+2487,Electronic City,5,6,0,1,Fully-Furnished,Villa,14,29550000
+1056,JP Nagar,4,2,1,0,Semi-Furnished,Villa,3,9020000
+1855,Bellandur,3,4,0,0,Fully-Furnished,Independent House,1,11370000
+2138,Banashankari,2,3,0,1,Unfurnished,Independent House,8,11150000
+1371,Whitefield,1,2,2,0,Unfurnished,Apartment,8,9130000
+2344,Yelahanka,1,1,0,0,Unfurnished,Villa,14,20730000
+2076,Uttarahalli,3,1,0,0,Semi-Furnished,Independent House,8,11560000
+883,Sarjapur Road,3,4,1,2,Unfurnished,Apartment,12,6930000
+2400,Whitefield,1,2,0,0,Fully-Furnished,Villa,10,18630000
+1628,KR Puram,4,2,0,2,Unfurnished,Villa,4,12850000
+2405,BTM Layout,1,1,2,0,Fully-Furnished,Villa,2,24960000
+1053,Electronic City,5,1,1,2,Fully-Furnished,Independent House,8,6580000
+902,KR Puram,4,2,0,2,Fully-Furnished,Apartment,3,3520000
+1075,Bellandur,1,1,1,0,Semi-Furnished,Apartment,6,4510000
+1235,Banashankari,5,1,2,0,Semi-Furnished,Independent House,10,8470000
+2497,Rajajinagar,4,4,1,1,Semi-Furnished,Apartment,2,13980000
+2298,KR Puram,5,6,1,1,Fully-Furnished,Villa,12,19650000
+2096,Bannerghatta Road,5,3,2,0,Unfurnished,Independent House,8,12790000
+2440,Jayanagar,1,1,2,2,Fully-Furnished,Villa,3,13500000
+1400,JP Nagar,5,2,1,0,Unfurnished,Independent House,12,6960000
+824,BTM Layout,2,2,0,0,Fully-Furnished,Villa,6,5600000
+1948,HSR Layout,4,4,2,0,Semi-Furnished,Independent House,4,11710000
+2191,Malleshwaram,2,3,2,2,Fully-Furnished,Villa,3,29280000
+1194,Malleshwaram,5,1,1,2,Semi-Furnished,Apartment,14,9630000
+1798,Indiranagar,2,2,0,1,Unfurnished,Apartment,15,6960000
+1793,HSR Layout,3,4,2,2,Semi-Furnished,Independent House,9,17720000
+1853,Kengeri,4,2,1,0,Semi-Furnished,Villa,10,21890000
+902,Yelahanka,5,3,0,2,Unfurnished,Villa,6,5230000
+1140,KR Puram,4,4,0,0,Unfurnished,Villa,11,6120000
+2170,HSR Layout,5,5,2,2,Semi-Furnished,Villa,5,23780000
+1285,Jayanagar,4,4,2,0,Unfurnished,Villa,11,12650000
+1978,Koramangala,5,4,2,0,Semi-Furnished,Villa,15,20050000
+1923,Banashankari,3,3,2,2,Fully-Furnished,Apartment,5,15350000
+1232,HSR Layout,2,1,0,1,Fully-Furnished,Villa,1,9470000
+1940,Jayanagar,5,4,0,2,Unfurnished,Independent House,7,17170000
+962,Electronic City,3,3,0,0,Unfurnished,Apartment,5,4210000
+2159,Rajajinagar,3,1,2,2,Semi-Furnished,Independent House,4,19980000
+2332,Bellandur,2,2,0,1,Semi-Furnished,Villa,9,28070000
+1854,Uttarahalli,4,3,1,2,Semi-Furnished,Independent House,14,17920000
+1214,Koramangala,2,2,2,2,Semi-Furnished,Apartment,13,7880000
+2312,Koramangala,3,4,2,1,Semi-Furnished,Apartment,12,16130000
+1866,Uttarahalli,4,2,0,1,Fully-Furnished,Independent House,5,21270000
+976,KR Puram,2,2,0,0,Fully-Furnished,Villa,7,9870000
+1661,HSR Layout,3,2,1,2,Fully-Furnished,Villa,2,10690000
+2484,Marathahalli,5,1,1,0,Semi-Furnished,Apartment,9,14570000
+1266,Koramangala,3,2,1,2,Semi-Furnished,Independent House,6,7140000
+1051,Marathahalli,3,4,1,2,Fully-Furnished,Apartment,4,10970000
+1421,KR Puram,1,1,2,0,Fully-Furnished,Apartment,14,7350000
+904,Bannerghatta Road,2,3,1,2,Semi-Furnished,Independent House,6,7360000
+804,Hebbal,4,4,2,1,Unfurnished,Villa,11,4250000
+2206,HSR Layout,2,2,1,0,Fully-Furnished,Independent House,15,16820000
+1969,Sarjapur Road,1,2,2,0,Semi-Furnished,Independent House,8,15970000
+1553,Sarjapur Road,5,4,1,2,Fully-Furnished,Independent House,3,8240000
+1295,HSR Layout,2,2,0,2,Fully-Furnished,Villa,13,12350000
+1172,Bellandur,5,6,0,1,Unfurnished,Apartment,6,5810000
+1817,Kengeri,4,3,1,1,Unfurnished,Apartment,4,6490000
+1970,Indiranagar,4,3,1,2,Semi-Furnished,Villa,2,12630000
+1370,Malleshwaram,2,1,1,2,Semi-Furnished,Villa,13,11030000
+1863,Malleshwaram,4,5,2,1,Fully-Furnished,Independent House,12,17000000
+1114,Bellandur,3,2,0,1,Semi-Furnished,Apartment,10,4260000
+1681,Indiranagar,4,5,2,0,Semi-Furnished,Villa,2,20550000
+1448,Sarjapur Road,5,6,0,0,Fully-Furnished,Villa,14,19130000
+1711,JP Nagar,1,1,1,2,Fully-Furnished,Independent House,6,19280000
+1016,BTM Layout,2,1,0,2,Fully-Furnished,Independent House,9,6870000
+2404,Kengeri,3,1,0,0,Semi-Furnished,Independent House,11,13470000
+1204,Kengeri,3,3,2,0,Fully-Furnished,Villa,4,11760000
+1445,HSR Layout,3,2,1,2,Unfurnished,Apartment,1,7800000
+1502,Rajajinagar,4,4,1,1,Semi-Furnished,Independent House,2,8500000
+1129,Bellandur,5,1,0,2,Fully-Furnished,Villa,11,9200000
+1317,Jayanagar,1,2,2,2,Unfurnished,Villa,4,14380000
+1194,Hebbal,3,2,1,2,Fully-Furnished,Villa,2,6460000
+1143,Uttarahalli,3,3,1,1,Semi-Furnished,Independent House,2,5790000
+1714,Banashankari,1,2,1,0,Unfurnished,Apartment,13,9340000
+2020,Bellandur,3,3,1,1,Unfurnished,Villa,7,8420000
+1866,BTM Layout,1,2,2,1,Semi-Furnished,Villa,10,20680000
+1638,Malleshwaram,3,4,0,2,Semi-Furnished,Apartment,7,11740000
+2288,JP Nagar,4,1,2,1,Fully-Furnished,Villa,4,30560000
+2046,Indiranagar,3,2,0,2,Unfurnished,Apartment,10,15240000
+1562,Malleshwaram,5,2,1,0,Semi-Furnished,Villa,15,18320000
+1268,HSR Layout,2,3,0,1,Fully-Furnished,Apartment,14,11190000
+2271,Marathahalli,1,1,1,1,Semi-Furnished,Independent House,4,23720000
+2392,BTM Layout,3,2,0,2,Unfurnished,Villa,2,22040000
+1167,Kengeri,5,6,1,0,Unfurnished,Apartment,6,6540000
+2124,HSR Layout,5,2,1,2,Semi-Furnished,Villa,15,23450000
+1610,Bannerghatta Road,2,3,1,2,Fully-Furnished,Independent House,4,9480000
+1590,JP Nagar,2,2,1,1,Unfurnished,Apartment,8,10540000
+1131,Banashankari,1,1,1,2,Fully-Furnished,Villa,7,13120000
+2318,Marathahalli,1,2,1,2,Fully-Furnished,Independent House,10,19820000
+874,Marathahalli,1,2,2,1,Fully-Furnished,Independent House,6,4020000
+1366,Indiranagar,3,3,2,0,Fully-Furnished,Apartment,8,8150000
+818,Yelahanka,3,1,2,2,Semi-Furnished,Independent House,1,5870000
+1756,Jayanagar,3,4,1,2,Semi-Furnished,Villa,11,8330000
+2228,BTM Layout,5,5,2,2,Semi-Furnished,Independent House,11,9310000
+1390,Malleshwaram,3,1,0,0,Unfurnished,Independent House,3,10590000
+1634,Marathahalli,1,2,0,0,Semi-Furnished,Independent House,13,14400000
+2072,Rajajinagar,1,1,1,0,Semi-Furnished,Villa,1,17310000
+1833,BTM Layout,3,4,1,1,Fully-Furnished,Villa,14,19120000
+1155,Koramangala,3,4,2,0,Semi-Furnished,Villa,14,12090000
+1312,Electronic City,4,3,2,2,Unfurnished,Villa,8,8250000
+1403,BTM Layout,2,1,1,2,Unfurnished,Independent House,1,12040000
+1146,Sarjapur Road,1,2,0,1,Fully-Furnished,Apartment,5,7000000
+2177,Malleshwaram,5,1,2,0,Unfurnished,Independent House,6,13720000
+2130,Jayanagar,1,1,2,0,Unfurnished,Independent House,5,11870000
+1511,Marathahalli,4,3,0,2,Unfurnished,Villa,9,7880000
+1172,Jayanagar,5,6,2,1,Unfurnished,Villa,9,7230000
+1997,Kengeri,4,4,0,0,Fully-Furnished,Villa,10,12460000
+1850,Rajajinagar,4,4,2,2,Unfurnished,Independent House,13,16220000
+1450,Banashankari,4,5,1,0,Unfurnished,Independent House,11,13330000
+1290,Bannerghatta Road,1,2,2,1,Semi-Furnished,Independent House,2,5170000
+1121,Indiranagar,4,3,2,2,Fully-Furnished,Independent House,2,11300000
+2395,Yelahanka,5,5,2,1,Semi-Furnished,Independent House,12,15080000
+1304,Malleshwaram,1,2,0,1,Unfurnished,Independent House,15,10550000
+2126,KR Puram,2,2,0,0,Unfurnished,Independent House,11,18940000
+2097,Malleshwaram,3,3,1,0,Unfurnished,Apartment,8,7000000
+1139,HSR Layout,5,2,0,1,Semi-Furnished,Apartment,9,4840000
+917,Banashankari,3,3,2,1,Unfurnished,Apartment,5,7600000
+1473,Banashankari,3,3,1,0,Semi-Furnished,Villa,5,13930000
+1188,Bannerghatta Road,4,2,2,1,Fully-Furnished,Villa,12,12380000
+851,Yelahanka,5,6,2,2,Semi-Furnished,Villa,3,8430000
+1327,KR Puram,2,3,0,1,Fully-Furnished,Apartment,8,13560000
+2408,JP Nagar,1,1,0,1,Fully-Furnished,Independent House,14,20800000
+1518,Banashankari,4,4,1,0,Unfurnished,Independent House,2,13770000
+2360,Sarjapur Road,2,1,0,1,Unfurnished,Independent House,9,11070000
+1690,Whitefield,3,3,0,0,Unfurnished,Independent House,1,9420000
+1930,JP Nagar,5,4,0,2,Unfurnished,Villa,7,20230000
+1217,Rajajinagar,3,1,1,0,Semi-Furnished,Independent House,14,8100000
+848,Bellandur,2,3,0,1,Fully-Furnished,Villa,7,4290000
+1449,BTM Layout,2,1,1,0,Fully-Furnished,Independent House,7,11130000
+1121,Electronic City,1,2,2,0,Fully-Furnished,Independent House,11,5040000
+1641,Banashankari,2,3,0,1,Unfurnished,Apartment,4,11910000
+2456,Bannerghatta Road,2,2,2,1,Semi-Furnished,Apartment,2,21390000
+1894,Banashankari,5,3,1,1,Fully-Furnished,Independent House,2,12290000
+1268,Yelahanka,5,4,2,0,Unfurnished,Independent House,7,5700000
+1678,Whitefield,5,5,2,1,Fully-Furnished,Apartment,4,14090000
+1862,HSR Layout,4,1,1,0,Semi-Furnished,Apartment,7,14040000
+1749,Electronic City,4,3,1,2,Unfurnished,Villa,2,18220000
+1804,Electronic City,3,4,2,2,Fully-Furnished,Independent House,4,9980000
+2039,Jayanagar,3,4,1,2,Fully-Furnished,Villa,12,16120000
+2132,JP Nagar,3,1,0,0,Unfurnished,Apartment,7,15050000
+1796,Bannerghatta Road,4,1,2,2,Semi-Furnished,Villa,2,19220000
+2058,Koramangala,3,3,2,2,Semi-Furnished,Apartment,5,12380000
+2142,Bellandur,3,2,2,0,Unfurnished,Independent House,8,15980000
+1654,Marathahalli,2,1,2,0,Fully-Furnished,Independent House,15,12800000
+1053,Malleshwaram,5,5,0,2,Fully-Furnished,Independent House,14,7020000
+2052,Hebbal,1,2,2,0,Semi-Furnished,Villa,9,18300000
+1871,Yelahanka,1,2,1,2,Fully-Furnished,Apartment,12,9610000
+2181,Yelahanka,4,4,1,1,Unfurnished,Villa,8,21060000
+1103,Marathahalli,2,1,2,2,Semi-Furnished,Apartment,11,7020000
+1954,Bannerghatta Road,5,6,2,1,Semi-Furnished,Villa,4,19490000
+1155,BTM Layout,3,1,0,0,Fully-Furnished,Apartment,11,6090000
+1702,Bannerghatta Road,5,4,1,2,Fully-Furnished,Apartment,15,9580000
+946,BTM Layout,5,3,2,1,Fully-Furnished,Villa,12,7440000
+1551,Sarjapur Road,5,4,0,2,Semi-Furnished,Apartment,14,11320000
+817,JP Nagar,3,4,0,1,Semi-Furnished,Apartment,1,4510000
+2186,Yelahanka,3,4,0,2,Unfurnished,Independent House,11,11350000
+1355,Bannerghatta Road,4,2,2,1,Semi-Furnished,Apartment,6,9610000
+1349,BTM Layout,2,2,0,0,Fully-Furnished,Independent House,15,11110000
+1129,Banashankari,3,3,2,0,Fully-Furnished,Apartment,7,10260000
+1254,Bannerghatta Road,3,1,2,0,Unfurnished,Apartment,5,5380000
+1923,Jayanagar,1,2,2,1,Fully-Furnished,Villa,3,25570000
+1643,Hebbal,2,3,0,1,Semi-Furnished,Independent House,15,11220000
+1650,Electronic City,3,4,0,2,Unfurnished,Villa,15,7320000
+977,Electronic City,2,2,0,1,Semi-Furnished,Villa,12,8410000
+1065,HSR Layout,5,5,0,2,Semi-Furnished,Independent House,14,6380000
+1861,BTM Layout,1,2,2,0,Unfurnished,Independent House,5,11650000
+1292,Whitefield,2,1,0,2,Unfurnished,Villa,8,12540000
+2322,BTM Layout,5,3,1,0,Semi-Furnished,Independent House,13,23210000
+1515,Electronic City,1,1,1,0,Semi-Furnished,Apartment,14,9100000
+2165,Indiranagar,3,1,1,0,Semi-Furnished,Independent House,13,12570000
+1393,Yelahanka,3,3,0,0,Unfurnished,Apartment,9,9110000
+1762,Indiranagar,5,2,0,1,Semi-Furnished,Apartment,2,16560000
+2271,Malleshwaram,4,1,2,0,Fully-Furnished,Apartment,13,16790000
+808,Electronic City,5,6,2,2,Fully-Furnished,Villa,4,5630000
+1293,Yelahanka,2,2,0,0,Unfurnished,Villa,8,13430000
+1415,KR Puram,3,4,1,0,Unfurnished,Independent House,10,11090000
+1769,Whitefield,4,4,2,2,Unfurnished,Independent House,9,15280000
+2344,JP Nagar,2,1,1,1,Semi-Furnished,Villa,6,15020000
+2393,Jayanagar,3,1,2,1,Semi-Furnished,Apartment,15,12520000
+1198,HSR Layout,1,1,0,1,Unfurnished,Apartment,9,6110000
+2196,Yelahanka,1,2,2,2,Semi-Furnished,Independent House,6,18450000
+2068,Rajajinagar,5,3,2,2,Semi-Furnished,Apartment,12,15210000
+1267,Whitefield,5,4,1,0,Fully-Furnished,Villa,7,12220000
+1037,Uttarahalli,3,3,0,2,Fully-Furnished,Villa,8,11720000
+1663,Kengeri,5,1,1,1,Semi-Furnished,Apartment,6,8330000
+1802,Marathahalli,4,2,2,0,Semi-Furnished,Apartment,5,9760000
+1199,Bellandur,4,5,2,0,Semi-Furnished,Independent House,14,5550000
+1470,Jayanagar,5,5,1,2,Semi-Furnished,Villa,13,7500000
+1173,Whitefield,4,4,0,0,Semi-Furnished,Independent House,12,8740000
+861,Koramangala,2,3,1,1,Semi-Furnished,Apartment,2,4990000
+2098,Indiranagar,4,3,1,2,Unfurnished,Villa,5,17870000
+1359,Jayanagar,3,1,0,0,Fully-Furnished,Apartment,2,13630000
+2057,Koramangala,4,2,2,2,Fully-Furnished,Villa,6,12070000
+1831,Malleshwaram,1,2,1,1,Semi-Furnished,Independent House,4,18390000
+1830,BTM Layout,1,2,1,2,Semi-Furnished,Independent House,13,18490000
+1002,Bellandur,4,4,1,2,Fully-Furnished,Apartment,6,5960000
+1734,Jayanagar,3,1,1,2,Semi-Furnished,Villa,3,8740000
+1317,HSR Layout,3,2,2,1,Fully-Furnished,Villa,5,16310000
+1900,Uttarahalli,4,3,0,0,Unfurnished,Apartment,5,11760000
+2427,Rajajinagar,4,4,0,1,Semi-Furnished,Villa,1,18090000
+2315,KR Puram,2,3,0,1,Semi-Furnished,Independent House,13,17290000
+2404,Whitefield,3,4,0,1,Fully-Furnished,Villa,3,24110000
+1918,Koramangala,5,3,1,0,Fully-Furnished,Villa,6,20780000
+1967,Uttarahalli,4,4,0,0,Fully-Furnished,Apartment,6,10680000
+1021,BTM Layout,3,4,1,1,Unfurnished,Apartment,2,6870000
+1444,Uttarahalli,1,2,0,2,Fully-Furnished,Apartment,4,12410000
+1560,Uttarahalli,3,3,1,2,Unfurnished,Villa,2,13090000
+1113,Whitefield,3,1,2,1,Unfurnished,Apartment,2,7750000
+1799,Banashankari,1,1,2,0,Semi-Furnished,Independent House,9,18700000
+987,Banashankari,5,6,2,2,Semi-Furnished,Villa,14,9510000
+1464,Koramangala,3,1,1,0,Semi-Furnished,Independent House,15,10890000
+1582,Banashankari,2,1,1,1,Unfurnished,Apartment,5,7790000
+1248,Bannerghatta Road,5,4,1,0,Unfurnished,Apartment,5,4550000
+1705,Jayanagar,4,1,2,2,Semi-Furnished,Apartment,9,8790000
+2193,BTM Layout,4,4,1,0,Fully-Furnished,Villa,12,15660000
+2322,Yelahanka,5,5,0,0,Unfurnished,Villa,7,20370000
+2334,Hebbal,5,6,0,2,Unfurnished,Villa,6,15570000
+2430,Hebbal,2,2,0,0,Semi-Furnished,Independent House,11,20200000
+1835,Malleshwaram,1,2,2,1,Fully-Furnished,Independent House,13,11010000
+1873,Rajajinagar,3,2,1,0,Unfurnished,Villa,13,11280000
+957,Sarjapur Road,4,3,2,2,Fully-Furnished,Villa,15,9670000
+1656,Bellandur,3,2,0,0,Semi-Furnished,Apartment,1,9030000
+2139,Rajajinagar,2,3,2,0,Semi-Furnished,Villa,7,21500000
+1644,Hebbal,5,3,2,2,Fully-Furnished,Apartment,7,17130000
+985,Yelahanka,1,1,1,1,Fully-Furnished,Villa,6,5200000
+1006,Bannerghatta Road,2,2,1,1,Semi-Furnished,Villa,14,11750000
+1018,Jayanagar,3,2,1,1,Fully-Furnished,Apartment,14,10040000
+1227,Malleshwaram,2,2,1,0,Unfurnished,Apartment,5,8590000
+2092,Marathahalli,2,1,0,2,Unfurnished,Apartment,6,9760000
+1972,Koramangala,2,3,2,0,Fully-Furnished,Villa,6,21300000
+1339,Rajajinagar,4,4,0,2,Fully-Furnished,Independent House,4,7510000
+1829,Sarjapur Road,4,1,1,2,Unfurnished,Independent House,10,12030000
+992,Jayanagar,4,1,1,1,Unfurnished,Apartment,7,7650000
+2181,Indiranagar,4,5,2,0,Semi-Furnished,Villa,1,17290000
+1173,Kengeri,3,2,1,2,Fully-Furnished,Apartment,9,11620000
+2349,Hebbal,3,4,0,2,Unfurnished,Villa,14,18070000
+1442,HSR Layout,5,4,0,1,Unfurnished,Villa,8,10680000
+1665,Bannerghatta Road,3,3,2,0,Fully-Furnished,Villa,9,20910000
+1333,Yelahanka,3,1,1,0,Fully-Furnished,Independent House,15,7640000
+888,BTM Layout,2,1,2,2,Semi-Furnished,Apartment,13,8240000
+2222,Sarjapur Road,2,3,0,1,Unfurnished,Independent House,9,14970000
+1497,Koramangala,5,4,1,0,Fully-Furnished,Apartment,12,14860000
+2002,Hebbal,4,2,1,2,Unfurnished,Villa,7,13330000
+2493,Bellandur,2,1,1,1,Fully-Furnished,Independent House,7,13980000
+1819,BTM Layout,4,2,1,1,Fully-Furnished,Apartment,8,13780000
+2440,Malleshwaram,4,3,2,0,Unfurnished,Villa,8,26960000
+1659,KR Puram,1,1,1,0,Unfurnished,Apartment,2,5530000
+896,HSR Layout,1,2,2,0,Unfurnished,Apartment,8,3450000
+1251,BTM Layout,1,2,0,1,Fully-Furnished,Apartment,3,8660000
+1286,Whitefield,3,2,0,0,Fully-Furnished,Independent House,4,11540000
+2231,Hebbal,5,5,1,0,Fully-Furnished,Villa,1,21860000
+2449,Marathahalli,2,1,2,2,Unfurnished,Independent House,10,13620000
+1316,Bellandur,1,1,0,0,Semi-Furnished,Independent House,3,11000000
+1411,Koramangala,3,2,0,0,Unfurnished,Independent House,2,6550000
+1651,BTM Layout,1,1,1,1,Semi-Furnished,Villa,10,13540000
+2115,Sarjapur Road,2,2,1,1,Semi-Furnished,Apartment,2,12650000
+2260,BTM Layout,2,1,2,0,Unfurnished,Villa,10,21990000
+2178,Koramangala,5,1,1,0,Unfurnished,Apartment,4,14140000
+1135,Whitefield,1,1,1,2,Fully-Furnished,Independent House,6,11260000
+1851,Uttarahalli,1,2,2,0,Semi-Furnished,Independent House,1,17970000
+1960,KR Puram,3,3,2,1,Semi-Furnished,Independent House,9,18860000
+1550,Jayanagar,4,5,1,2,Unfurnished,Villa,9,16590000
+2225,Uttarahalli,1,1,0,2,Semi-Furnished,Independent House,7,10520000
+1783,Marathahalli,2,2,2,2,Fully-Furnished,Apartment,3,9190000
+2088,Yelahanka,1,2,0,0,Semi-Furnished,Apartment,8,11710000
+940,Kengeri,5,4,2,1,Unfurnished,Independent House,14,7640000
+1925,Sarjapur Road,4,1,0,1,Semi-Furnished,Villa,14,17880000
+2126,Banashankari,5,4,2,0,Fully-Furnished,Apartment,10,9130000
+1400,Koramangala,5,5,2,1,Unfurnished,Apartment,12,10600000
+2403,Banashankari,3,4,2,1,Semi-Furnished,Independent House,7,17600000
+828,Uttarahalli,2,1,0,1,Unfurnished,Villa,8,5390000
+1415,Uttarahalli,2,3,2,0,Unfurnished,Independent House,9,10510000
+1095,HSR Layout,1,1,2,2,Unfurnished,Apartment,15,8960000
+1220,Bannerghatta Road,4,5,0,0,Unfurnished,Independent House,14,10200000
+2066,Banashankari,1,1,1,2,Semi-Furnished,Villa,7,15850000
+864,BTM Layout,3,4,1,2,Semi-Furnished,Apartment,11,4890000
+1223,Bellandur,4,1,0,0,Unfurnished,Villa,14,5100000
+1535,KR Puram,2,2,1,2,Fully-Furnished,Apartment,13,12190000
+955,Sarjapur Road,4,2,0,0,Fully-Furnished,Villa,5,6050000
+1112,Kengeri,4,1,2,0,Fully-Furnished,Apartment,1,10930000
+917,HSR Layout,4,4,1,2,Fully-Furnished,Apartment,2,7100000
+2405,Jayanagar,5,6,2,0,Semi-Furnished,Apartment,8,10780000
+2083,Rajajinagar,5,6,1,0,Unfurnished,Villa,8,10130000
+1800,Marathahalli,5,1,0,2,Fully-Furnished,Villa,5,15410000
+2338,Sarjapur Road,3,1,0,0,Fully-Furnished,Independent House,9,25450000
+2296,Banashankari,4,1,0,0,Unfurnished,Villa,6,10520000
+1996,Marathahalli,1,2,0,1,Semi-Furnished,Villa,8,11880000
+1700,Banashankari,2,1,2,0,Semi-Furnished,Independent House,9,16660000
+2426,Yelahanka,5,2,1,1,Semi-Furnished,Villa,15,13360000
+906,Indiranagar,2,1,1,1,Semi-Furnished,Villa,14,8510000
+2480,Malleshwaram,1,1,2,0,Semi-Furnished,Independent House,7,10870000
+912,HSR Layout,5,2,1,1,Unfurnished,Independent House,3,7260000
+1231,Kengeri,3,1,2,1,Semi-Furnished,Villa,6,7320000
+1979,BTM Layout,3,1,1,1,Unfurnished,Villa,14,21680000
+2303,JP Nagar,5,6,2,1,Semi-Furnished,Apartment,4,15030000
+1280,Bellandur,4,1,0,1,Fully-Furnished,Apartment,5,10400000
+1587,HSR Layout,4,2,0,1,Unfurnished,Villa,11,8720000
+1975,Indiranagar,1,1,2,1,Semi-Furnished,Apartment,2,10490000
+825,Jayanagar,5,2,2,1,Fully-Furnished,Independent House,6,4770000
+1465,Bannerghatta Road,1,2,1,2,Semi-Furnished,Apartment,6,11980000
